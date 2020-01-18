@@ -21,22 +21,16 @@ Accessibility is defined as the availability to every individual regardless of d
 
 ## What impairments must we consider in making a website Accessible?
 
-
-__**Visual**__
+**Visual** (Applies to ~7,675,600 = 2.4% - [source](https://www.nfb.org/resources/blindness-statistics?gclid=EAIaIQobChMIisyNzcyI3AIVg7bACh11lQJNEAAYASAAEgIAc_D_BwE))
 
 This impairment applies to people with low vision, color blindness and blindness. They often have to rely on the following to use the web:
 
 * Zooming in on the page or enlarging text size
-
 * Using a screen reader that speaks content to them
-
 * Using a Braille reader
-
 * Using high contrast modes
 
-
-
-**Auditory**
+**Auditory** (Applies to ~27,700,000 = 14% - [source](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing))
 
 **Cognitive**
 
