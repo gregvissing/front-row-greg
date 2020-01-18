@@ -52,7 +52,7 @@ export default {
             animation: logoBlink 0.2s steps(8, end) alternate;
         }
         h1 {
-            font-size: 2em;
+            font-size: 2em !important;
         }
     }
 }
