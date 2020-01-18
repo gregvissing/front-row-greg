@@ -60,3 +60,5 @@ Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often us
 * Voice recognition, eye tracking, and other hands-free options
 
 ## What are the guidelines to follow to stay Accessible?
+
+There is a set of guidelines called the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) that are constantly being updated
