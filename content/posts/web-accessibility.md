@@ -32,16 +32,11 @@ This impairment applies to people with low vision, color blindness and blindness
 
 **Auditory** (Applies to ~27,700,000 = 14% - [source](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing))
 
-This impairment includes Any type of hearing loss, hearing aid usage, and deafness
-
-Often rely on the following to use the web effectively:
+This impairment includes any type of hearing loss, hearing aid usage and deafness. People with this impairment often rely on the following to use the web effectively:
 
 * Transcripts/captions for audio content
-
 * Media players that display captions with adjustable fonts
-
 * Options to stop, pause, and adjust volume of audio content
-
 * Foreground audio clearly distinguishable from background
 
 noise
