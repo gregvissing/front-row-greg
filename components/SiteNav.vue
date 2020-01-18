@@ -8,7 +8,8 @@
       <hamburger-button @click="active = !active" />
     </div>
 
-    <div :class="{
+    <div 
+	:class="{
         'navbar-menu': true,
         'is-active': active
       }">

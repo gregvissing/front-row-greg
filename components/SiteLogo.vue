@@ -1,12 +1,7 @@
 <template>
   <div class="logo-wrapper">
-    <div :class="{
-        'logo-inner': true,
-        //blink: blinking
-      }">
+    <div class="logo-inner">
       <h1>Front Row Greg</h1>
-      <!-- <img v-for="x in frames" :key="x" :src="`/logo-frames/logo-f${x - 1}.svg`" />
-      <img v-for="x in frames" :key="`${x}-r`" :src="`/logo-frames/logo-f${frames - x}.svg`" />-->
     </div>
   </div>
 </template>
