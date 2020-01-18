@@ -42,3 +42,10 @@ This impairment includes any type of hearing loss, hearing aid usage and deafnes
 **Cognitive** (Applies to ~27,700,000 = 14% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
 
 **Physical** (Applies to ~39,500,000 = 16.1% - [source](https://www.cdc.gov/nchs/fastats/disability.htm))
+
+Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often use special technology to interact with web content:
+
+* Head pointer, mouth stick, or other typing aids
+* On-screen keyboard with trackball, joystick, etc.
+* Switches operated by foot, shoulder, etc.
+* Voice recognition, eye tracking, and other hands-free options
