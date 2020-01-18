@@ -5,7 +5,7 @@ category:
   - About Front Row Greg
 author: Greg Vissing
 date: 2020-01-18T18:43:27.606Z
-featureImage: uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+featureImage: uploads/markup-hero.jpg
 ---
 I'm pleased to welcome you to my first blog post on Web Accessibility. If you've never heard of it, I hope that this website will serve as a resource to keep you up-to-date on what it is and why it's needed.
 
