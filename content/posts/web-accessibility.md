@@ -12,3 +12,9 @@ I'm pleased to welcome you to my first blog post on Web Accessibility. If you've
 ## What is Accessibility?
 
 Accessibility is defined as the availability to every individual regardless of disability, situation or other factors.
+
+## Who all is involved in Accessibility?
+
+
+
+## What company types are most at Risk?
