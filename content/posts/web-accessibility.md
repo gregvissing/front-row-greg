@@ -18,3 +18,7 @@ Accessibility is defined as the availability to every individual regardless of d
 
 
 ## What type of business is most at Risk?
+
+
+
+## What took so long for Accessibility to become a big topic?
