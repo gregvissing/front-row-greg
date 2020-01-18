@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
 	siteName: 'Front Row Greg',
-	tagline: 'A Nuxt.js Theme for Netlify CMS',
+	tagline: 'A Blog for Staying in Front of Web Accessibility Issues',
 	featureImage: '/uploads/home-hero.jpg',
 	logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
 	googleAnalytics: {
