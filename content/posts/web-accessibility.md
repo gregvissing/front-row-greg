@@ -26,3 +26,7 @@ Accessibility is defined as the availability to every individual regardless of d
 
 
 ## What impairments must we consider in making a website Accessibile?
+
+**Visual**
+
+**Auditory**
