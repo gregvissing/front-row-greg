@@ -41,6 +41,15 @@ This impairment includes any type of hearing loss, hearing aid usage and deafnes
 
 **Cognitive** (Applies to ~27,700,000 = 14% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
 
+Neurological, behavioral, and mental disorders. Often rely on the following to navigate web content:
+
+* Clearly structured content
+* Simple navigation and link titles
+* Consistent labeling of forms and buttons
+* Options to suppress blinking and flashing content
+* Text-to-speech software
+* Enlarging the webpage or text
+
 **Physical** (Applies to ~39,500,000 = 16.1% - [source](https://www.cdc.gov/nchs/fastats/disability.htm))
 
 Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often use special technology to interact with web content:
