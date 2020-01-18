@@ -58,3 +58,5 @@ Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often us
 * On-screen keyboard with trackball, joystick, etc.
 * Switches operated by foot, shoulder, etc.
 * Voice recognition, eye tracking, and other hands-free options
+
+## What are the guidelines to follow to stay Accessible?
