@@ -4,7 +4,7 @@
         'logo-inner': true,
         blink: blinking
       }">
-      Front Row Greg
+      <h1>Front Row Greg</h1>
       <!-- <img v-for="x in frames" :key="x" :src="`/logo-frames/logo-f${x - 1}.svg`" />
       <img v-for="x in frames" :key="`${x}-r`" :src="`/logo-frames/logo-f${frames - x}.svg`" />-->
     </div>
