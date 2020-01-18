@@ -21,10 +21,10 @@ export default {
         }
     },
     mounted() {
-        setInterval(() => {
-            const rand = Math.ceil(Math.random() * 10)
-            this.blinking = rand % 2
-        }, 1000)
+        // setInterval(() => {
+        //     const rand = Math.ceil(Math.random() * 10)
+        //     this.blinking = rand % 2
+        // }, 1000)
     }
 }
 </script>
