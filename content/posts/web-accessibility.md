@@ -22,3 +22,7 @@ Accessibility is defined as the availability to every individual regardless of d
 
 
 ## What took so long for Accessibility to become a big topic?
+
+
+
+## What impairments must we consider in making a website Accessibile?
