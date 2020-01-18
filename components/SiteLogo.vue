@@ -53,6 +53,7 @@ export default {
         }
         h1 {
             font-size: 2em !important;
+            color: $link;
         }
     }
 }
