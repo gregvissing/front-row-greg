@@ -3,6 +3,7 @@ title: Web Accessibility
 subtitle: What is it? Why do we need it?
 category:
   - Accessibility
+  - Impairments
 author: Greg Vissing
 date: 2020-01-18T18:43:27.606Z
 featureImage: uploads/markup-hero.jpg
