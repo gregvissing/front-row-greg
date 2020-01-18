@@ -39,7 +39,7 @@ This impairment includes any type of hearing loss, hearing aid usage and deafnes
 * Options to stop, pause, and adjust volume of audio content
 * Foreground audio clearly distinguishable from background noise
 
-**Cognitive** (Applies to ~27,700,000 = 14% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
+**Cognitive** (Applies to ~44,700,000 = 18.5% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
 
 Neurological, behavioral, and mental disorders. Often rely on the following to navigate web content:
 
