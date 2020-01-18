@@ -37,9 +37,7 @@ This impairment includes any type of hearing loss, hearing aid usage and deafnes
 * Transcripts/captions for audio content
 * Media players that display captions with adjustable fonts
 * Options to stop, pause, and adjust volume of audio content
-* Foreground audio clearly distinguishable from background
-
-noise
+* Foreground audio clearly distinguishable from background noise
 
 **Cognitive**
 
