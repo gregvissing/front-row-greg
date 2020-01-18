@@ -15,22 +15,29 @@ Accessibility is defined as the availability to every individual regardless of d
 
 ## Who all is involved in Accessibility?
 
-
-
 ## What type of business is most at Risk?
-
-
 
 ## What took so long for Accessibility to become a big topic?
 
-
-
 ## What impairments must we consider in making a website Accessible?
 
-**Visual**
+
+__**Visual**__
+
+This impairment applies to people with low vision, color blindness and blindness. They often have to rely on the following to use the web:
+
+* Zooming in on the page or enlarging text size
+
+* Using a screen reader that speaks content to them
+
+* Using a Braille reader
+
+* Using high contrast modes
+
+
 
 **Auditory**
 
-**Coginitive**
+**Cognitive**
 
 **Physical**
