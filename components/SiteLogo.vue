@@ -2,7 +2,7 @@
   <div class="logo-wrapper">
     <div :class="{
         'logo-inner': true,
-        blink: blinking
+        //blink: blinking
       }">
       <h1>Front Row Greg</h1>
       <!-- <img v-for="x in frames" :key="x" :src="`/logo-frames/logo-f${x - 1}.svg`" />
