@@ -7,4 +7,8 @@ author: Greg Vissing
 date: 2020-01-18T18:43:27.606Z
 featureImage: uploads/about-hero.jpg
 ---
-I'm pleased to welcome you to my first blog post on about Web Accessibility. If you've never heard of it, I hope that this website will help to keep you up-to-date on what it is, why it's needed and why we, as digital publishers of all kinds, need to be mindful
+I'm pleased to welcome you to my first blog post on about Web Accessibility. If you've never heard of it, I hope that this website will help to keep you up-to-date on what it is and why it's needed.
+
+## What is Accessibility?
+
+Accessibility is defined as the availability to every individual regardless of disability, situation or other factors.
