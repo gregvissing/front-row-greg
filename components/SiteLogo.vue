@@ -51,6 +51,9 @@ export default {
         &.blink {
             animation: logoBlink 0.2s steps(8, end) alternate;
         }
+        h1 {
+            font-size: 2em;
+        }
     }
 }
 </style>
