@@ -39,6 +39,6 @@ This impairment includes any type of hearing loss, hearing aid usage and deafnes
 * Options to stop, pause, and adjust volume of audio content
 * Foreground audio clearly distinguishable from background noise
 
-**Cognitive**
+**Cognitive** (Applies to ~27,700,000 = 14% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
 
-**Physical**
+**Physical** (Applies to ~39,500,000 = 16.1% - [source](https://www.cdc.gov/nchs/fastats/disability.htm))
