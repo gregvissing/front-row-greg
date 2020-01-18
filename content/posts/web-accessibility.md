@@ -15,31 +15,31 @@ Accessibility is defined as the availability to every individual regardless of d
 
 ## Who all is involved in Accessibility?
 
-## What type of business is most at Risk?
+## What type of business is Most at Risk?
 
 ## What took so long for Accessibility to become a big topic?
 
-## What impairments must we consider in making a website Accessible?
+## What impairments must we consider in making a Website Accessible?
 
-**Visual** (Applies to ~7,675,600 = 2.4% - [source](https://www.nfb.org/resources/blindness-statistics?gclid=EAIaIQobChMIisyNzcyI3AIVg7bACh11lQJNEAAYASAAEgIAc_D_BwE))
+**Visual**(Applies to ~7,675,600 = 2.4% -[source](https://www.nfb.org/resources/blindness-statistics?gclid=EAIaIQobChMIisyNzcyI3AIVg7bACh11lQJNEAAYASAAEgIAc_D_BwE))
 
-This impairment applies to people with low vision, color blindness and blindness. They often have to rely on the following to use the web:
+This impairment applies to people with low vision, color blindness, and blindness. They often have to rely on the following to use the web:
 
 * Zooming in on the page or enlarging text size
 * Using a screen reader that speaks content to them
 * Using a Braille reader
 * Using high contrast modes
 
-**Auditory** (Applies to ~27,700,000 = 14% - [source](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing))
+**Auditory**(Applies to ~27,700,000 = 14% -[source](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing))
 
 This impairment includes any type of hearing loss, hearing aid usage and deafness. People with this impairment often rely on the following to use the web effectively:
 
 * Transcripts/captions for audio content
 * Media players that display captions with adjustable fonts
-* Options to stop, pause, and adjust volume of audio content
+* Options to stop, pause and adjust the volume of audio content
 * Foreground audio clearly distinguishable from background noise
 
-**Cognitive** (Applies to ~44,700,000 = 18.5% - [source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
+**Cognitive**(Applies to ~44,700,000 = 18.5% -[source](https://www.caregiver.org/incidence-and-prevalence-major-causes-brain-impairment))
 
 Neurological, behavioral, and mental disorders. Often rely on the following to navigate web content:
 
@@ -50,7 +50,7 @@ Neurological, behavioral, and mental disorders. Often rely on the following to n
 * Text-to-speech software
 * Enlarging the webpage or text
 
-**Physical** (Applies to ~39,500,000 = 16.1% - [source](https://www.cdc.gov/nchs/fastats/disability.htm))
+**Physical**(Applies to ~39,500,000 = 16.1% -[source](https://www.cdc.gov/nchs/fastats/disability.htm))
 
 Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often use special technology to interact with web content:
 
@@ -61,4 +61,4 @@ Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often us
 
 ## What are the guidelines to follow to stay Accessible?
 
-There is a set of guidelines called the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) that are constantly being updated
+There is a set of guidelines called the[Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)that are constantly being updated
