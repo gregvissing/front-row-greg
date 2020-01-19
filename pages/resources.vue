@@ -1,8 +1,8 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
+      title="Resources"
+      subtitle="Example Resource Page"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -59,13 +59,11 @@
   </div>
 </template>
 <script>
-import ContactForm from '~/components/ContactForm'
 export default {
   head() {
     return {
-      title: `Contact | ${this.$siteConfig.siteName}`
+      title: `Resources | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { ContactForm }
+  }
 }
 </script>

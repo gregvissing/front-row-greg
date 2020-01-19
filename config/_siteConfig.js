@@ -22,6 +22,10 @@ export default {
 			link: '/about'
 		},
 		{
+			name: 'Resources',
+			link: '/resources'
+		},
+		{
 			name: 'Contact',
 			link: '/contact'
 		},
