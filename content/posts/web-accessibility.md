@@ -32,6 +32,10 @@ Accessibility is defined as the availability to every individual regardless of d
 
 ## What took so long for Accessibility to become a big topic?
 
+* Recently became a prominent issue
+* Trade off between Design and Accessibility
+* Limited by budget/calendar
+
 ## What impairments must we consider in making a Website Accessible?
 
 **Visual**(Applies to ~7,675,600 = 2.4% -[source](https://www.nfb.org/resources/blindness-statistics?gclid=EAIaIQobChMIisyNzcyI3AIVg7bACh11lQJNEAAYASAAEgIAc_D_BwE))
