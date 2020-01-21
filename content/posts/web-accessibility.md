@@ -24,6 +24,12 @@ Accessibility is defined as the availability to every individual regardless of d
 
 ## What type of business is Most at Risk?
 
+* Banking/Finance
+* Retails, E-Commerce
+* Travel, Hospitality, Food Service
+* Health Care
+* Multiple Sites, Multiple Brands
+
 ## What took so long for Accessibility to become a big topic?
 
 ## What impairments must we consider in making a Website Accessible?
