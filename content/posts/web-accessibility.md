@@ -15,7 +15,12 @@ I'm pleased to welcome you to my first blog post on Web Accessibility. If you've
 
 Accessibility is defined as the availability to every individual regardless of disability, situation or other factors.
 
-## Who all is involved in Accessibility?
+## Who/what all is involved in Accessibility?
+
+* Congress: Title III (1973)
+* Department of Justice Response (2010)
+* Trial Lawyers
+* World Wide Web Consortium (W3C) - Web Content Accessibility Guidelines (WCAG 2.1)
 
 ## What type of business is Most at Risk?
 
