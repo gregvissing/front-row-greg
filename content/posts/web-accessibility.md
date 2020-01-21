@@ -85,7 +85,7 @@ There is a set of guidelines called the[Web Content Accessibility Guidelines](ht
 WCAG 2.0 guidelines are categorized into three levels of conformance in order to meet the needs of different groups and different situations:
 
 * **Level A (lowest)** - *For Level A conformance (the minimum level of conformance), the Web page satisfies all the Level A Success Criteria, or a conforming alternate version is provided.*
-* ***Level* AA (mid range)** - *For Level AA conformance, the Web page satisfies all the Level A and Level AA Success Criteria, or a Level AA conforming alternate version is provided.*
+* ***Level* AA (mid range)** - *For Level AA conformance, the Web page satisfies all the Level A and Level AA Success Criteria, or a Level AA conforming alternate version is provided.* Most organizations set their standards at level AA because it is both achievable and meaningful, without being too disruptive to the design and development process.
 * ***Level* AAA (highest)** - *For Level AAA conformance, the Web page satisfies all the Level A, Level AA and Level AAA Success Criteria, or a Level AAA conforming alternate version is provided.*
 
 **Video**
