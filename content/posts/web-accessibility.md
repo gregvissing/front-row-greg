@@ -78,7 +78,15 @@ Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often us
 
 ## What are the guidelines to follow to stay Accessible?
 
-There is a set of guidelines called the[Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)that are constantly being updated
+There is a set of guidelines called the[Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) that are constantly being updated.
+
+## Three Levels of Conformance?
+
+WCAG 2.0 guidelines are categorized into three levels of conformance in order to meet the needs of different groups and different situations:
+
+* A (lowest)
+* AA (mid range)
+* AAA (highest)
 
 **Video**
 
