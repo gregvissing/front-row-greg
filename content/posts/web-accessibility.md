@@ -79,3 +79,7 @@ Range from arthritis and carpal tunnel, to paralysis and missing limbs. Often us
 ## What are the guidelines to follow to stay Accessible?
 
 There is a set of guidelines called the[Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)that are constantly being updated
+
+Video
+
+[![Apple – Accessibility – Sady](http://img.youtube.com/vi/XB4cjbYywqg/0.jpg)](http://www.youtube.com/watch?v=XB4cjbYywqg "Apple – Accessibility – Sady")
