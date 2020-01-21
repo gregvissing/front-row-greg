@@ -92,4 +92,4 @@ WCAG 2.0 guidelines are categorized into three levels of conformance in order to
 
 We believe that technology should be accessible to everyone — including Sady Paulson, who uses Switch Control on a Mac to share her thoughts on doing what you love.
 
-[![Apple – Accessibility – Sady](http://img.youtube.com/vi/XB4cjbYywqg/0.jpg)](http://www.youtube.com/watch?v=XB4cjbYywqg "Apple – Accessibility – Sady")
+[![Apple – Accessibility – Sady](https://img.youtube.com/vi/XB4cjbYywqg/0.jpg)](http://www.youtube.com/watch?v=XB4cjbYywqg "Apple – Accessibility – Sady")
