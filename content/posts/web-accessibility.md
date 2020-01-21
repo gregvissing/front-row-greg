@@ -6,7 +6,7 @@ category:
   - Impairments
   - WCAG
 author: Greg Vissing
-date: 2020-01-22T18:43:27.606Z
+date: 2020-01-20T18:43:27.606Z
 featureImage: uploads/markup-hero.jpg
 ---
 I'm pleased to welcome you to my first blog post on Web Accessibility. If you've never heard of it, I hope that this website will serve as a resource to keep you up-to-date on what it is and why it's needed.
