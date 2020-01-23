@@ -41,6 +41,7 @@
               <li><a href="https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939">Writing CSS with Accessibility in Mind</a></li>
               <li><a href="https://www.cjcid.com/articles/unexpected-a11y-tips/">Unexpected accessibility tips</a></li>
               <li><a href="https://webflow.com/blog/5-ways-content-can-improve-your-websites-accessibility-and-overall-ux">5 ways content can improve your websites’ accessibility — and overall UX</a></li>
+              <li><a href="https://simplyaccessible.com/article/empathy/">Start with empathy</a></li>
             </ul>
           </p>
           <h3>A11Y - Misc Resources</h3>
@@ -72,6 +73,8 @@
               <li><a href="https://ericwbailey.design/writing/truths-about-digital-accessibility.html">Truths about digital accessibility</a></li>
               <li><a href="https://libguides.ctstatelibrary.org/dld/accessibility/websites">Libraries and Accessibility: Accessible Websites</a></li>
               <li><a href="https://www.blackbaud.com/files/support/helpfiles/luminate-online/help/Subsystems/Administrator/Content/Ref/Admin_Accessibility_Checker.html">Using the Accessibility Checker on Web Pages</a></li>
+              <li><a href="https://simplyaccessible.com/article/smartphone-a11y-primer-1/">A smartphone accessibility primer; or, how I learned to stop worrying and master mobile accessibility</a></li>
+              <li><a href="https://simplyaccessible.com/article/finding-willing-cultivating-engagement-accessibility/">Finding the willing: cultivating engagement for accessibility</a></li>
             </ul>
           </p>
           <h3>A11Y - Example</h3>
