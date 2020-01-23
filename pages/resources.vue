@@ -1,18 +1,25 @@
+/* eslint-disable */
 <template>
   <div id="resources-page" class="page-wrapper resources-page content-page">
     <site-hero
       title="Resources"
-      subtitle="Example Resources Page"
+      subtitle="Bookmarks for Days"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>A11Y - Standards</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+            <ol>
+				<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
+			</ol>
+          </p>
+		  <h3>A11Y - Tools</h3>
+          <p>
+            <ol>
+				<li><a href="https://marcozehe.de/2018/04/11/introducing-the-accessibility-inspector-in-the-firefox-developer-tools/">Accessibility Inspector (Firefox)</a></li>
+			</ol>
           </p>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
@@ -21,7 +28,7 @@
             ratione rem repudiandae sit!
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>A11Y - Forms</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
@@ -29,7 +36,7 @@
             ratione rem repudiandae sit!
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>A11Y - Testing</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
