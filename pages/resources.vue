@@ -16,11 +16,6 @@
               <li><a href="https://www.w3.org/TR/WCAG20/">Web Content Accessibility Guidelines (WCAG) 2.0</a></li>
               <li><a href="https://alistapart.com/article/standards-for-writing-accessibly/">Standards for Writing Accessibly</a></li>
               <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML">HTML: A good basis for accessibility</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Navigation</h3>
@@ -28,9 +23,6 @@
             <ul>
               <li><a href="https://www.a11ymatters.com/pattern/mobile-nav/">Accessible Mobile Navigation</a></li>
               <li><a href="https://medium.com/@linlinghao/accessibility-for-hamburger-menu-a37fa9617a89">Accessibility for Hamburger Menu</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Strategy</h3>
@@ -49,10 +41,6 @@
               <li><a href="https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939">Writing CSS with Accessibility in Mind</a></li>
               <li><a href="https://www.cjcid.com/articles/unexpected-a11y-tips/">Unexpected accessibility tips</a></li>
               <li><a href="https://webflow.com/blog/5-ways-content-can-improve-your-websites-accessibility-and-overall-ux">5 ways content can improve your websites’ accessibility — and overall UX</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Misc Resources</h3>
@@ -84,8 +72,6 @@
               <li><a href="https://ericwbailey.design/writing/truths-about-digital-accessibility.html">Truths about digital accessibility</a></li>
               <li><a href="https://libguides.ctstatelibrary.org/dld/accessibility/websites">Libraries and Accessibility: Accessible Websites</a></li>
               <li><a href="https://www.blackbaud.com/files/support/helpfiles/luminate-online/help/Subsystems/Administrator/Content/Ref/Admin_Accessibility_Checker.html">Using the Accessibility Checker on Web Pages</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Example</h3>
@@ -97,10 +83,6 @@
               <li><a href="https://www.apple.com/accessibility/">Apple - Accessibility</a></li>
               <li><a href="https://pattern-library.dequelabs.com/">Deque - Pattern library</a></li>
               <li><a href="https://a11y-style-guide.com/style-guide/">A11Y - Style Guide</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Tools/Testing</h3>
@@ -120,8 +102,6 @@
               <li><a href="https://css-tricks.com/accessibility-testing-tools/">Accessibility Testing Tools</a></li>
               <li><a href="https://www.sitepoint.com/web-accessibility-tools-considerations/">Web Accessibility: Tools and Considerations</a></li>
               <li><a href="https://daverupert.com/2018/07/assistive-technologies-i-test-with/">Assistive Technologies I Test With</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Forms</h3>
@@ -133,10 +113,6 @@
               <li><a href="https://designsystem.digital.gov/components/form-templates/">USWDS - Form templates</a></li>
               <li><a href="https://adamsilver.io/articles/where-to-put-buttons-in-forms/">Where to put buttons on forms</a></li>
               <li><a href="https://24ways.org/2019/making-a-better-custom-select-element/">Making a Better Custom Select Element</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Legal</h3>
@@ -156,9 +132,6 @@
               <li><a href="https://www.sarasoueidan.com/">Sara Soueidan</a></li>
               <li><a href="https://www.sergeikriger.com/">Sergei Kriger</a></li>
               <li><a href="https://www.aaron-gustafson.com/">Aaron Gustafson</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Code</h3>
@@ -166,9 +139,6 @@
             <ul>
               <li><a href="https://codepen.io/shadeed/pen/PMygee">CodePen - Hamburger Menu</a></li>
               <li><a href="https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/">Having a Little Fun With Custom Focus Styles</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
           <h3>A11Y - Documents</h3>
@@ -179,10 +149,6 @@
               <li><a href="https://docs.google.com/document/d/1lLZWnkZPWn8HVjR3nkH1lv2AHscaHjntjbeKPrKtp-M/edit?usp=sharing">Kristina Podnar - Privacy policy</a></li>
               <li><a href="https://docs.google.com/document/d/1ZeHNfqBDOXd7ZmTKIG9UFVukH75AJqZyAsEyM5QQ7dM/edit">Kristina Podnar - Privacy statement</a></li>
               <li><a href="https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing">Kristina Podnar - Accessibility policy we developed for Greg V</a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
-              <li><a href=""></a></li>
             </ul>
           </p>
         </div>
