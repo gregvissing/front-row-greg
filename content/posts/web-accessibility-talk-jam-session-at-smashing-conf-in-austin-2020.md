@@ -9,3 +9,15 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
 ---
 16 Ways to Prepare for a Lightning Talk ([source](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/)).
 
+* Research the Audience
+
+  * Skip introductory slides (ex., "this is SEO...").
+  * Avoid addressing anything too in-depth
+* Outline slide using strong and uncluttered points
+* Less is more
+
+  * Cut out unnecessary slides
+  * Get rid of anything extraneous
+* Write a script
+
+  * Loose script based on what I want to say to say to supplement slides
