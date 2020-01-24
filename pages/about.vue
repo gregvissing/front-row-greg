@@ -8,6 +8,16 @@
           <h3>Background</h3>
           <p>I'm currently a Web Developer & UI Designer at the University of Cincinnati Foundation. I specialize in custom Web Development. My focus when developing a project is to make it as user friendly as possible no matter what device it is being viewed on. My attention to detail when creating training documents will allow clients to update their website with ease.</p>
 
+          <h3>Skills</h3>
+          <ol>
+            <li>HTML5/HTML</li>
+            <li>CSS3/CSS</li>
+            <li>JavaScript</li>
+            <li>jQuery</li>
+            <li>VueJS</li>
+            <li>WordPress</li>
+            <li>Animations using Greensock</li>
+          </ol>
           <h3>Work</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
@@ -15,7 +25,6 @@
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
           </p>
-          <quote-card />
           <h3>Job History</h3>
           <p>
             <strong>Employer:</strong> University of Cincinnati Foundation
