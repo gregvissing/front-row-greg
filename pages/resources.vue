@@ -119,7 +119,8 @@
               <li>
                 <a href="https://www.w3.org/WAI/tutorials/forms/multi-page/">Multi-page Forms
                 </a>
-              </li>			  
+              </li>
+              <li><a href="https://vfowler.com/accessibility-testing-multi-channel-form-wizard/">Accessibility testing a multi-channel form wizard</a></li>		  
             </ul>
           </p>
           <h3>A11Y - Legal</h3>
