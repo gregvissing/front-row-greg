@@ -42,8 +42,8 @@
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">Cool Stuff We Do</p>
-              <p class="subtitle">Sooo Cool</p>
+              <!-- <p class="title">Cool Stuff We Do</p>
+              <p class="subtitle">Sooo Cool</p>-->
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
               </figure>
@@ -71,7 +71,9 @@
       </template>
 
       <template v-slot:sidebar>
-        <h3 class="subtitle is-4">Latest Posts</h3>
+        <h3 class="subtitle is-4">
+          Latest Posts
+        </h3>
         <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
