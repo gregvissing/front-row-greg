@@ -17,6 +17,10 @@
             <li>VueJS</li>
             <li>WordPress</li>
             <li>Animations using Greensock</li>
+            <li>PHP</li>
+            <li>Bootstrap</li>
+            <li>Foundation</li>
+            <li>LESS/SASS</li>
           </ol>
           <h3>Work</h3>
           <p>
