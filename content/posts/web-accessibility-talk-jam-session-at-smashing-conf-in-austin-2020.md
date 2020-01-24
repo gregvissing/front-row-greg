@@ -23,9 +23,15 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
   * Loose script based on what I want to say to say to supplement slides
   * Try not to sound stale or rehearsed, but still able to refer to specific points.
 * Begin with an image
-
+  * Slides split with graphics and bulleted text. 
+  * After my intro slide, I began with a graphic and a quote.
 * Capitalize on something recent
+  * 
+  * 
 * Time yourself beforehand
+  * 
+  * 
+  * 
 * Have a backup
 * Know the technology
 * Speak slowly
