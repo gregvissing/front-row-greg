@@ -21,3 +21,15 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
 * Write a script
 
   * Loose script based on what I want to say to say to supplement slides
+  * Try not to sound stale or rehearsed, but still able to refer to specific points.
+* Begin with an image
+
+* Capitalize on something recent
+* Time yourself beforehand
+* Have a backup
+* Know the technology
+* Speak slowly
+* Try to get a laugh, but don't force it
+* Have a designated place for business cards
+* Engage on social media
+* Learn from the experience
