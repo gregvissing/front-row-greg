@@ -116,6 +116,10 @@
               <li><a href="https://designsystem.digital.gov/components/form-templates/">USWDS - Form templates</a></li>
               <li><a href="https://adamsilver.io/articles/where-to-put-buttons-in-forms/">Where to put buttons on forms</a></li>
               <li><a href="https://24ways.org/2019/making-a-better-custom-select-element/">Making a Better Custom Select Element</a></li>
+              <li>
+                <a href="https://www.w3.org/WAI/tutorials/forms/multi-page/">Multi-page Forms
+                </a>
+              </li>			  
             </ul>
           </p>
           <h3>A11Y - Legal</h3>
