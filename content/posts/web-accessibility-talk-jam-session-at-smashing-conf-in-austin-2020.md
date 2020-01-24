@@ -7,7 +7,7 @@ author: Greg Vissing
 date: 2020-01-31T15:15:32.475Z
 featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
 ---
-16 Ways to Prepare for a Lightning Talk ([source](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/)).
+**16 Ways to Prepare for a Lightning Talk** ([source](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/)).
 
 * Research the Audience
 
@@ -53,16 +53,20 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
 
 - - -
 
-Giving a good lightning talk ([source](https://software.ac.uk/home/cw11/giving-good-lightning-talk))
+**Giving a good lightning talk** ([source](https://software.ac.uk/home/cw11/giving-good-lightning-talk))
 
 * Make your point, Make it quickly
+
   * Think about what you are trying to get your audience to discover! If you are talking about your work, are you presenting the audience with an unsolved question? Or an inspirational answer! Make it your title, so that people have had time to digest it and get interested.
   * Get to your point early on. Don't leave it to the end. If you can make your point in 1 minute or 1 slide then go for it.
-
 * Don't sweat the small stuff
+
   * Lightning talks are there to enable the audience to review as many potentially exciting ideas as possible in a short space of time. You are not there to provide the detail required for them to reproduce your work, you're there to inspire them to search out your work.
   * Use large images and as little text as possible. Don't crowd and confuse with unnecessary information - have a pointer to a website or email at the start and/or on every slide to give your audience more. You might even like to use the Takahashi method which uses only one or two words per slide.
 * When structuring your slides don't worry about taking wild leaps, and when talking provide the minimum amount of background to give the context to make your point.
 * People want to discover something new, not everything there is to know about it.
-
 * Get comfortable
+
+  * Practice against a timer. Practice standing up. Five minutes is a really short time when presenting. And yet make sure you go slow and steady and reduce the amount you say rather than rushing to try and cram more in.
+  * Make sure you know how the microphone and other A/V facilities work. Understand when you'll be presenting and be ready to speak.
+  * And remember, the audience is on your side!
