@@ -13,8 +13,16 @@ When it comes to learning new skills, we all learn in our own ways. Last year I 
 
 Identifying mains points are what Sarah recommends with some opinions of my own about each.
 
+### Identifying holes
+
 ### Possible strategies
 
 ### Setting aside time
 
 ### Practice
+
+### Learning modalities
+
+### Cognitive Load Theory
+
+### Lifelong learners
