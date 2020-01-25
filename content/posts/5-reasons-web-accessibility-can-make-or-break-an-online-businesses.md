@@ -5,7 +5,7 @@ category:
   - Accessibility
   - WCAG
   - e-Commerce
-author: Daniel Kelly
+author: Greg Vissing
 date: 2020-02-01T13:30:00.195Z
 featureImage: uploads/working-macbook-computer-keyboard-34577.jpg
 ---
