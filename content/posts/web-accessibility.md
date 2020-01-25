@@ -1,6 +1,7 @@
 ---
 title: Web Accessibility
 subtitle: What is it? Why do we need it?
+saveAsDraft: false,
 category:
   - Accessibility
   - Impairments

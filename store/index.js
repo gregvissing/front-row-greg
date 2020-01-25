@@ -3,6 +3,7 @@ export const state = () => ({
   pageType: '',
   title: '',
   subtitle: '',
+  saveAsDraft: '',
   featureImage: '',
   content: '',
   author: '',

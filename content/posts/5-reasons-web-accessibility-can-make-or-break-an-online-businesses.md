@@ -1,6 +1,7 @@
 ---
 title: 5 Reasons Web Accessibility can make or break an Online Businesses
 subtitle: Avoid these common pitfalls
+saveAsDraft: false,
 category:
   - Accessibility
   - WCAG
