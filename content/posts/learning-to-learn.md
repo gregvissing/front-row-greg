@@ -2,7 +2,7 @@
 title: Methods for Learning new Skills
 subtitle: Techniques for Learning New Skills
 category:
-  - About Front Row Greg
+  - Learning
 author: Greg Vissing
 date: 2020-01-29T18:36:45.786Z
 featureImage: uploads/about-hero.jpg
