@@ -1,8 +1,8 @@
 <template>
   <div class="logo-wrapper">
-    <div class="logo-inner">
+    <div class="logo-inner" >
       <!-- <h1>navbar-brand</h1> -->
-      <img src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true">
+      <img src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true" alt="Front Row Greg logo">
     </div>
   </div>
 </template>
@@ -33,14 +33,14 @@ export default {
 .logo-wrapper {
     position: relative;
     height: 50px;
-    overflow: hidden;
+    overflow: visible; // hidden;
     width: 300px;
     .logo-inner {
         position: absolute;
         height: 500px;
         img {
             display: block;
-            height: 40px;
+            height: auto; // 40px;
             margin: 5px;
             max-height: initial;
         }

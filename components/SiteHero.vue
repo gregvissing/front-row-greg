@@ -8,10 +8,10 @@
     />
     <div class="hero-body">
       <div class="container">
-        <img alt="Front Row Greg logo" src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png">
-        <h1 class="title animated fadeInUp">
+        <img id="hero-logo" alt="Front Row Greg logo" src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true">
+        <!-- <h1 class="title animated fadeInUp">
           {{ title }}
-        </h1>
+        </h1> -->
         <h2 class="subtitle animated fadeInUp slower">
           {{ subtitle }}
         </h2>
@@ -157,6 +157,11 @@ export default {
     .hero-body {
         padding-bottom: 3rem;
         padding-top: 3rem;
+		
     }
+}
+
+img#hero-logo {
+	width: 75%;
 }
 </style>
