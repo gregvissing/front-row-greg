@@ -1,8 +1,9 @@
+/* eslint-disable */ 
 <template>
   <div class="logo-wrapper">
     <div class="logo-inner" >
       <!-- <h1>navbar-brand</h1> -->
-      <img src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true" alt="Front Row Greg logo">
+      <img src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true" alt="Front Row Greg logo" />
     </div>
   </div>
 </template>
@@ -41,7 +42,7 @@ export default {
         img {
             display: block;
             height: auto; // 40px;
-            margin: 5px;
+			margin: 12px 5px;
             max-height: initial;
         }
         &.blink {
