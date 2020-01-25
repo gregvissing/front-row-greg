@@ -8,6 +8,7 @@
     />
     <div class="hero-body">
       <div class="container">
+        <img alt="Front Row Greg logo" src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png">
         <h1 class="title animated fadeInUp">
           {{ title }}
         </h1>
