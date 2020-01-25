@@ -1,7 +1,7 @@
 <template>
   <div class="logo-wrapper">
     <div class="logo-inner">
-      <h1>Front Row Greg</h1>
+      <h1>FRG</h1>
     </div>
   </div>
 </template>
