@@ -5,7 +5,7 @@ category:
   - Accessibility
   - WCAG
 author: Daniel Kelly
-date: 2020-01-25T13:30:00.195Z
+date: 2020-02-01T13:30:00.195Z
 featureImage: uploads/working-macbook-computer-keyboard-34577.jpg
 ---
 5 Reasons
