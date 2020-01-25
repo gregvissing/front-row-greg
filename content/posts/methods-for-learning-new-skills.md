@@ -11,8 +11,10 @@ When it comes to learning new skills, we all learn in our own ways. Last year I 
 
 > The single most valuable skill you can possess to remain employable over time is learning how to learn - Sarah Drasner
 
-### Identifying holes
+Identifying mains points are what Sarah recommends with some opinions of my own about each.
 
 ### Possible strategies
 
 ### Setting aside time
+
+### Practice
