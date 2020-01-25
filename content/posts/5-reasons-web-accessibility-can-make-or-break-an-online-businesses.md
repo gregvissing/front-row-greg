@@ -9,4 +9,4 @@ author: Greg Vissing
 date: 2020-02-01T13:30:00.195Z
 featureImage: uploads/working-macbook-computer-keyboard-34577.jpg
 ---
-5 Reasons
+In this post I'll discuss how Web Accessibility affects online businesses, from a legal standpoint to cost.
