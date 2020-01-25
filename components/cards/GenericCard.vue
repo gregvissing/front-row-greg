@@ -29,7 +29,6 @@
             >
               {{ title }}
             </h3>
-            <p>{{ saveAsDraft }}</p>
             <h4
               :class="{
                 subtitle: true,
@@ -52,7 +51,6 @@ export default {
     title: { type: String, default: '' },
     image: { type: String, default: '' },
     link: { type: String, default: '' },
-	saveAsDraft: { type: Boolean },
     imageDimensions: { type: String, default: imageDimensionDefault }
   },
   computed: {

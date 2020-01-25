@@ -46,7 +46,6 @@ export default {
     ...mapState([
       'title',
       'subtitle',
-      'saveAsDraft',
       'featureImage',
       'underSubtitle',
       'author',
