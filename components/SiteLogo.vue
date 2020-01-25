@@ -1,9 +1,12 @@
 <template>
   <div class="logo-wrapper">
     <div class="logo-inner">
-      <h1>FRG</h1>
+      <!-- <h1>navbar-brand</h1> -->
+      <img 
+        alt="Front Row Greg logo"
+        src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true"
+      >
     </div>
-  </div>
 </template>
 <script>
 export default {
