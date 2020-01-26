@@ -5,8 +5,23 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
+          <h2>Hello, welcome to my website about Web Accessibility!</h2>
+
+          <h3>About the Nickname "Front Row Greg"</h3>
+          <p>
+            It all started in 2019 while attending
+            <a
+              href="https://smashingconf.com/toronto-2019/"
+            >SmashingConf</a> up in Toronto, Canada. Click the link to learn more about this great conference! I was excited about the lineup of speakers, but I was particularly interested in the talk regarding
+            <a
+              href="https://vimeo.com/348952186"
+            >Digital Policy</a> by Kristina Podnar. I went to the
+            <a href="https://smashingconf.com/toronto-2019/jam-session">Jam Session</a> meet-up the night before the first day of talks.
+          </p>
+
           <h3>Background</h3>
-          <p>I'm currently a Web Developer & UI Designer at the University of Cincinnati Foundation. I specialize in custom Web Development. My focus when developing a project is to make it as user friendly as possible no matter what device it is being viewed on. My attention to detail when creating training documents will allow clients to update their website with ease.</p>
+
+          <p>My name is Greg Vissing and I'm from Cincinnati, OH. I'm currently a Web Developer & UI Designer at the University of Cincinnati Foundation. I specialize in custom Web Development. My focus when developing a project is to make it as user friendly as possible no matter what device it is being viewed on. My attention to detail when creating training documents will allow clients to update their website with ease.</p>
 
           <h3>Skills</h3>
           <ol>
@@ -71,9 +86,7 @@
       </template>
 
       <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
+        <h3 class="subtitle is-4">Latest Posts</h3>
         <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
@@ -86,7 +99,7 @@ export default {
         return {
             title: `About | ${this.$siteConfig.siteName}`
         }
-    },
+    }
     // components: { QuoteCard }
 }
 </script>
