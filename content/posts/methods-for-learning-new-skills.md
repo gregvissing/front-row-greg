@@ -1,6 +1,8 @@
 ---
 title: Methods for Learning New Skills
-subtitle: Test
+subtitle: >-
+  The single most valuable skill you can possess to remain employable over time
+  is learning how to learn.
 category:
   - Learning
 author: Greg Vissing
