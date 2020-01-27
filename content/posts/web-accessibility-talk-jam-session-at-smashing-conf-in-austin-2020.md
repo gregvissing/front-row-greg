@@ -71,7 +71,7 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
   * Make sure you know how the microphone and other A/V facilities work. Understand when you'll be presenting and be ready to speak.
   * And remember, the audience is on your side!
 
-In summary, remember that***DELIVERY is more important than CONTENT***. This doesn't mean that your content shouldn't be good, but that it is always better to get across something that sticks in your audience's mind, than getting them to forget everything you've just said.
+In summary, remember that ***DELIVERY is more important than CONTENT***. This doesn't mean that your content shouldn't be good, but that it is always better to get across something that sticks in your audience's mind, than getting them to forget everything you've just said.
 
 After all, you want them to come and ask you questions in the coffee break!
 
