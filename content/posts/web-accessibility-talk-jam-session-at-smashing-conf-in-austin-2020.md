@@ -79,8 +79,6 @@ After all, you want them to come and ask you questions in the coffee break!
 
 Make Point and Quickly
 
-
-
 ### OUTLINE
 
 Intro
@@ -103,3 +101,9 @@ Businesses most at risk
 * Travel, Hospitality, Food Service
 * Health Care
 * Multiple Sites, Multiple Brands
+
+Why weren't websites built to be accessible the first time?
+
+* Recently became a prominent issue
+* Trade off between Design and Accessibility
+* Limited by budget/calendar
