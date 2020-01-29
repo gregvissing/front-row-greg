@@ -107,3 +107,10 @@ Why weren't websites built to be accessible the first time?
 * Recently became a prominent issue
 * Trade off between Design and Accessibility
 * Limited by budget/calendar
+
+What Impairments needs to be considered?
+
+* Visual
+* Auditory
+* Cognitive
+* Physical
