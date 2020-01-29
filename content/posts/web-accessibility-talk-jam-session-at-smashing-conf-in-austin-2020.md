@@ -78,3 +78,19 @@ After all, you want them to come and ask you questions in the coffee break!
 - - -
 
 Make Point and Quickly
+
+
+
+### OUTLINE
+
+Intro
+
+* Brief intro about Web Accessibility
+
+  * What is it?
+
+Who/what is all involved
+
+* Congress: Title III (1973)
+* Department of Justice Response (2010)
+* Trial lawyers
