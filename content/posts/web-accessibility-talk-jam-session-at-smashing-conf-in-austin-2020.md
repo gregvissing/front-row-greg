@@ -93,5 +93,5 @@ Who/what is all involved
 
 * Congress: Title III (1973)
 * Department of Justice Response (2010)
-* Trial lawyers
+* Trial lawyers - Number of cases filed by year continue to rise
 * World Wide Web Consortium (W3C) - Web Content Accessibility Guidelines (WCAG 2.0)
