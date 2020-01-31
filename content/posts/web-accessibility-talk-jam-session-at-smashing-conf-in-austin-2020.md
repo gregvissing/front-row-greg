@@ -114,3 +114,8 @@ What Impairments needs to be considered?
 * Auditory
 * Cognitive
 * Physical
+
+Resources
+
+* Browser extensions
+* Screen readers
