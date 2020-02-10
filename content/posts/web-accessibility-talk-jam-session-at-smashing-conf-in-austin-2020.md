@@ -119,3 +119,9 @@ Resources
 
 * Browser extensions
 * Screen readers
+
+- - -
+
+February 10th, 2020
+
+I've recently learned that leading project meetings is a great way to get practice for this upcoming talk in Austin. Having knowledge of the project has worked well when having to answer questions about the details of the work that needs to be done, which will be needed at the end of my talk.
