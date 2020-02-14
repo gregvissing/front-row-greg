@@ -37,7 +37,7 @@ Sources:
       * Preferred Qualifications are the secondary qualifications that you would prefer in an applicant/employee, but are not required for performance of the essential functions.
       * The Job Description Summary field should be no longer than four sentences. It is intended to be a brief general summary of the position and should be consistent with and reflective of the more detailed duties sections, giving an overview of the level of skill required and scope of responsibility. Detailed duties or responsibilities should be included in the Job Duties section, not the General Summary. Use the following format for the first sentence of the General Summary: "The \[insert position title] is responsible for…"
 
-      ### Job Duties
+   * Job Duties
 
       * Job Duties should be present on both the "Position Restrictions" section and the "Responsibilities" section under the "Qualifications" tab when processing an[Edit Position Restrictions](https://employees.tamu.edu/compensation/job-changes/edit-position-restrictions/ "Edit Position Restrictions")in Workday. The Position Restrictions will feed to any job postings or advertisements, but the material under the Qualifications tab can be picked up in reporting and will feed to performance evaluations.
       * There is not a set requirement for the number of duties sections, but a general guideline is that most positions can be appropriately described in 3 to 10 sections of duties. Depending on the position and variety/nature of the duties being performed, it may be necessary to divide the duties into more than 10 sections. Any one duty can have several components to help identify the level and scope of the duty being performed, and therefore identifying the level of the position.
