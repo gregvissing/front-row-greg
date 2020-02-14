@@ -56,3 +56,29 @@ Sources:
         * Use "Duty Title" description to identify duty component groupings.
         * Include level of independent judgment and work complexity involved in each duty/component, and supervisory responsibilities.
       * Always include one job duty for "performs other duties as assigned." This job duty should be no more than 5% of time and is non-essential.
+
+- - -
+
+Web Developer & UI Designer - Job Description
+
+Structure The Web Developer and UI Designer is an exempt (salaried) position employed by the University of Cincinnati Foundation (UCF) and reports to the Associate Director of Digital Communications and works in collaboration with the Advancement Services team. 
+
+Focus \
+The Communications and Marketing Team provides full-service communications and design support for all departments at the University of Cincinnati Foundation. As a member of the digital communications team, the web developer will provide custom solutions to client needs across the Foundation. The Web Developer and UI Designer should speak both the business and technical languages fluently, and be passionate about hands-on technical configuration, creative problem solving and mentoring. While the primary focus of the position will be public-facing content on foundation.uc.edu and alumni.uc.edu, the Web Developer and UI Designer will need to develop a strong working understanding of how the fundraising database (Blackbaud CRM) integrates with the website in order to develop custom online parts.
+
+
+Requirements
+* Bachelor’s degree with 3-5 years of experience
+* Ability to work with technical staff and key Foundation stakeholders while building strong vendor relationships
+* A passionate and collaborative attitude that embraces innovative and diverse thinking to build best-in-class web experiences
+* Strong troubleshooting skills using industry-accepted best-practices and tools
+* A command for details, hands-on, and willingness to roll up their sleeves
+* Ability to proactively recognize needs, balance multiple projects, manage daily work-load and prioritize tasks
+* Must possess strong analytical and problem-solving skills, project management skills, and effective communication and documentation skills
+* Proven propensity to learn new interactive techniques and technologies
+* Experience supporting and customizing vended software (Blackbaud CRM and BBIS)
+•* Extremely comfortable with independently learning about and integrating with documented APIs, SDKs, and various web services
+* Experience with Content Management Systems, and version control software, and Reporting Services such as SSRS
+* Expertise in coding HTML, CSS, JavaScript, and responsive design front-end development without the use of a WYSIWYG editor
+* Proven technical knowledge of .NET languages: ASP, C#, and VB
+* Additional consideration will be given to candidates who have worked in a university fundraising or other non-profit organization
