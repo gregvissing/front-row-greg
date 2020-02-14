@@ -15,6 +15,7 @@ Sources:
 * [Job Descriptions](https://www.businessballs.com/team-management/job-descriptions/)
 * [Job Worth Doing: Update Descriptions](https://www.shrm.org/hr-today/news/hr-magazine/pages/0113-job-descriptions.aspx)
 * [Updating Job Descriptions](https://www.cbsnews.com/news/updating-job-descriptions/)
+* J[osh Doody: Salary Negotiation](https://www.joshdoody.com/)
 * [Update job descriptions regularly to include new duties & essential functions](https://www.businessmanagementdaily.com/13387/update-job-descriptions-regularly-to-include-new-duties-essential-functions/)
 * [What Are Some Best Practices for Rewriting Job Descriptions?](https://www.workforce.com/news/what-are-some-best-practices-for-rewriting-job-descriptions)
 * [Updating Position Descriptions - Recommended Practices](https://employees.tamu.edu/compensation/resources/updating-position-descriptions/)
