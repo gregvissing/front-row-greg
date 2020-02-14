@@ -71,10 +71,57 @@ featureImage: uploads/Screen Shot 2020-01-18 at 4.04.40 PM.png
   * Make sure you know how the microphone and other A/V facilities work. Understand when you'll be presenting and be ready to speak.
   * And remember, the audience is on your side!
 
-In summary, remember that***DELIVERY is more important than CONTENT***. This doesn't mean that your content shouldn't be good, but that it is always better to get across something that sticks in your audience's mind, than getting them to forget everything you've just said.
+In summary, remember that ***DELIVERY is more important than CONTENT***. This doesn't mean that your content shouldn't be good, but that it is always better to get across something that sticks in your audience's mind, than getting them to forget everything you've just said.
 
 After all, you want them to come and ask you questions in the coffee break!
 
 - - -
 
 Make Point and Quickly
+
+### OUTLINE
+
+Intro
+
+* Brief intro about Web Accessibility
+
+  * What is it?
+
+Who/what is all involved
+
+* Congress: Title III (1973)
+* Department of Justice Response (2010)
+* Trial lawyers - Number of cases filed by year continue to rise
+* World Wide Web Consortium (W3C) - Web Content Accessibility Guidelines (WCAG 2.0)
+
+Businesses most at risk
+
+* Banking/finance
+* Retail, E-Commerce
+* Travel, Hospitality, Food Service
+* Health Care
+* Multiple Sites, Multiple Brands
+
+Why weren't websites built to be accessible the first time?
+
+* Recently became a prominent issue
+* Trade off between Design and Accessibility
+* Limited by budget/calendar
+
+What Impairments needs to be considered?
+
+* Visual
+* Auditory
+* Cognitive
+* Physical
+
+Resources
+
+* Browser extensions
+* Screen readers
+
+- - -
+
+February 10th, 2020
+
+I've recently learned that leading project meetings is a great way to get practice for this upcoming talk in Austin. Having knowledge of the project has worked well when having to answer questions about the details of the work that needs to be done, which will be needed at the end of my talk.
