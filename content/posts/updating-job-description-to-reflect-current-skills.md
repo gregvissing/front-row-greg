@@ -23,3 +23,9 @@ Sources:
     * HR reviews and approves updates as soon as possible, with the response time for approval varying from 1-5 business days depending on volume. The heaviest volume occurs during April and May due to the annual performance evaluation period, so response time may extend beyond 5 business days during those months.
     * Pending updates must be approved by HR before posting a job, so it is recommended that departments submit updates and receive approval prior to submitting a posting.
     * HR recommends that departments submit PD updates early in the performance evaluation period, so that the most current PD will be included with the online evaluation.
+  * Tips for Reviewing and Editing the Position Description
+
+    * Position Description Template
+
+      * It is best to start with the[Workday Position Description template](https://employees.tamu.edu/media/1600861/workday-position-description-template.docx "Workday Position Description Template.docx")when drafting updates to an employee's position description. This format is specifically designed to aid in reading and understanding the different parts of a Texas A&M position description and will ensure faster analysis by the Classification and Compensation office.
+    * Qualifications
