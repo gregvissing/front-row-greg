@@ -21,5 +21,5 @@ Sources:
     * The Edit Position Restrictions should always be initiated by the HR Liaison in your department to ensure proper routing in Workday. For an update not involving a title change, the reason that should be selected is "Update."
     * Following appropriate online routing within a department, the PD update should be submitted to HR for review and approval.
     * HR reviews and approves updates as soon as possible, with the response time for approval varying from 1-5 business days depending on volume. The heaviest volume occurs during April and May due to the annual performance evaluation period, so response time may extend beyond 5 business days during those months.
-* Pending updates must be approved by HR before posting a job, so it is recommended that departments submit updates and receive approval prior to submitting a posting.
-* HR recommends that departments submit PD updates early in the performance evaluation period, so that the most current PD will be included with the online evaluation.
+    * Pending updates must be approved by HR before posting a job, so it is recommended that departments submit updates and receive approval prior to submitting a posting.
+    * HR recommends that departments submit PD updates early in the performance evaluation period, so that the most current PD will be included with the online evaluation.
