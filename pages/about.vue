@@ -40,6 +40,33 @@
             <strong>Title:</strong> Web Developer & UI Designer
           </p>
           <p>As a member of the digital communications team, I provide custom solutions to client needs across the Foundation. The Web Developer and UI Designer should speak both the business and technical languages fluently, and be passionate about hands-on technical configuration, creative problem solving and mentoring. While the primary focus of the position will be public-facing content on foundation.uc.edu and alumni.uc.edu, the Web Developer and UI Designer will need to develop a strong working understanding of how the fundraising database (Blackbaud CRM) integrates with the website in order to develop custom online parts.</p>
+
+          <hr />
+
+          <p>
+            <strong>Employer:</strong> 2060 Digital
+          </p>
+          <p>
+            <strong>Title:</strong> Web Developer
+          </p>
+
+          <hr />
+
+          <p>
+            <strong>Employer:</strong> US Digital Partners
+          </p>
+          <p>
+            <strong>Title:</strong> Interactive Web Developer
+          </p>
+
+          <hr />
+
+          <p>
+            <strong>Employer:</strong> Medical Recovery Systems
+          </p>
+          <p>
+            <strong>Title:</strong> Application Support/SharePoint Developer/MS InfoPath Developer
+          </p>
         </div>
 
         <div class="tile is-ancestor">
