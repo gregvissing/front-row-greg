@@ -12,6 +12,7 @@ After meeting with my supervisor in January, we both agreed that it was time for
 Sources:
 
 * [How to get bigger paychecks in 2020](https://fearlesssalarynegotiation.com/get-your-next-raise/)
+* [Updating Job Descriptions](https://www.cbsnews.com/news/updating-job-descriptions/)
 * [Updating Position Descriptions - Recommended Practices](https://employees.tamu.edu/compensation/resources/updating-position-descriptions/)
 
   * Overview of Update Process
