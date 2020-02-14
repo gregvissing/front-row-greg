@@ -12,6 +12,7 @@ After meeting with my supervisor in January, we both agreed that it was time for
 Sources:
 
 * [How to get bigger paychecks in 2020](https://fearlesssalarynegotiation.com/get-your-next-raise/)
+* [Job Descriptions](https://www.businessballs.com/team-management/job-descriptions/)
 * [Updating Job Descriptions](https://www.cbsnews.com/news/updating-job-descriptions/)
 * [What Are Some Best Practices for Rewriting Job Descriptions?](https://www.workforce.com/news/what-are-some-best-practices-for-rewriting-job-descriptions)
 * [Updating Position Descriptions - Recommended Practices](https://employees.tamu.edu/compensation/resources/updating-position-descriptions/)
