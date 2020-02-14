@@ -46,7 +46,7 @@ Sources:
       * Duties must be designated as essential or non-essential in the position description, as required by the Americans with Disabilities Act As Amended (ADAAA). Essential duties are the core tasks that must be completed to get the job done. Non-essential duties are the occasional duties that are performed as needed. As a general guideline, total non-essential duties will rarely comprise more than 10% of the job.
       * Writing guidelines for describing duties:
 
-        * Begin each statement with a present tense action verb. Examples of action verbs can be found[here](https://employees.tamu.edu/compensation/resources/action-verbs/).
+        * Begin each statement with a present tense action verb. Examples of action verbs can be found [here](https://employees.tamu.edu/compensation/resources/action-verbs/).
         * Use clear, concise language.
         * Use words that differentiate levels of the same job title series generally denoting experience, creativity, education or training.
         * Avoid using adjectives. Adjectives tend to give extra detail to nouns and may be unnecessary.
