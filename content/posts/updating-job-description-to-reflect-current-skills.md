@@ -63,7 +63,7 @@ Sources:
 
 - - -
 
-#### Web Developer & UI Designer - Job Description
+#### Web Developer & UI Designer - Original Job Description
 
 **Structure** 
 
@@ -88,3 +88,11 @@ Requirements
 * Expertise in coding HTML, CSS, JavaScript, and responsive design front-end development without the use of a WYSIWYG editor
 * Proven technical knowledge of .NET languages: ASP, C#, and VB
 * Additional consideration will be given to candidates who have worked in a university fundraising or other non-profit organization
+
+- - -
+
+New Skills Learned since start date
+
+Vue.JS JavaScript framework
+
+ADA Compliance/Web Accessibility
