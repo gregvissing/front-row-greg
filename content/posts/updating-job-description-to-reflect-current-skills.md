@@ -91,19 +91,24 @@ Requirements
 
 - - -
 
-#### New Skills Learned since start date**
+#### New Skills Learned since start date\*\*
 
-Vue.JS JavaScript framework
+**Vue.JS JavaScript framework**
 
 * UCGNI - Designation Search
 
-ADA Compliance/Web Accessibility
+**ADA Compliance/Web Accessibility**
 
 * Website redesign
 * Giving Form
 * Front-End Accessibility Workshop - Austin, TX (June 2020)
 
-Blackbaud/BBIS
+**Blackbaud/BBIS**
 
 * Fund query
 * Pre-Populated Link Generator
+
+Learning Opportunities
+
+* Conferences
+* Online Courses
