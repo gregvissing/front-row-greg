@@ -95,6 +95,11 @@ New Skills Learned since start date
 
 Vue.JS JavaScript framework
 
+* UCGNI - Designation Search
+
 ADA Compliance/Web Accessibility
+
+* Website redesign
+* Giving Form
 
 Blackbaud/BBIS
