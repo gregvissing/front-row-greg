@@ -107,6 +107,7 @@ Requirements
 
 * Fund query
 * Pre-Populated Link Generator
+* Cleaned functions that weren't being used in Namespace file
 
 **Learning Opportunities**
 
