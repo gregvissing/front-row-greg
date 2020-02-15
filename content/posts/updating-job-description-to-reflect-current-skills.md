@@ -104,3 +104,6 @@ ADA Compliance/Web Accessibility
 * Front-End Accessibility Workshop - Austin, TX (June 2020)
 
 Blackbaud/BBIS
+
+* Fund query
+* Pre-Populated Link Generator
