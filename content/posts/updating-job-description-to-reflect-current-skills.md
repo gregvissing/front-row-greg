@@ -105,6 +105,8 @@ Requirements
 
 **Design Systems**
 
+* Design Systems workshop with Brad Frost (SmashingConf Toronto 2019)
+
 **Blackbaud/BBIS**
 
 * Fund query
