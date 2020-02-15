@@ -91,7 +91,7 @@ Requirements
 
 - - -
 
-New Skills Learned since start date
+**New Skills Learned since start date**
 
 Vue.JS JavaScript framework
 
