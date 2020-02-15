@@ -111,5 +111,5 @@ Requirements
 
 **Learning Opportunities**
 
-* Conferences
+* Conferences/Workshops
 * Online Courses
