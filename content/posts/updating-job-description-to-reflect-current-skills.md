@@ -101,5 +101,6 @@ ADA Compliance/Web Accessibility
 
 * Website redesign
 * Giving Form
+* Front-End Accessibility Workshop - Austin, TX (June 2020)
 
 Blackbaud/BBIS
