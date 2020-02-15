@@ -108,7 +108,7 @@ Requirements
 * Fund query
 * Pre-Populated Link Generator
 
-Learning Opportunities
+**Learning Opportunities**
 
 * Conferences
 * Online Courses
