@@ -20,7 +20,7 @@ code {
 	border: 1px solid #eee;
 	padding: 1px;
 	border-radius: 5px;
-	font-size: .9em;
+	font-size: 0.9em;
 }
 
 pre {
@@ -38,6 +38,14 @@ pre {
 
 .home-page .under-subtitle {
 	border-top: none !important;
+}
+
+.reasons-container {
+	display: none;
+}
+
+.home-page .reasons-container {
+	display: block;
 }
 
 blockquote {
