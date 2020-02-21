@@ -16,9 +16,7 @@
         />
         <!-- <h1 class="title animated fadeInUp">{{ title }}</!-->
 
-        <h2 class="subtitle animated fadeInUp slower">
-          {{ subtitle }}
-        </h2>
+        <h2 class="subtitle animated fadeInUp slower">{{ subtitle }}</h2>
         <br />
         <div v-if="$slots.default" class="under-subtitle animated fadeInDown slower">
           <slot />
@@ -26,28 +24,25 @@
       </div>
     </div>
     <div class="reasons-container">
-      <h2>
-        Reasons For Web Accessibility
-      </h2>
-      <div class="container">  
-        <p>
-          We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-        </p>
+      <h2>Reasons For Web Accessibility</h2>
+      <div class="container">
+        <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 
         <div class="columns is-centered" style="padding: 2rem">
           <div class="column">
             <div class="card">
               <div class="card-image">
                 <figure class="image is-2by1">
-                  <img src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Placeholder image">
+                  <img
+                    src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                    alt="Placeholder image"
+                  />
                 </figure>
               </div>
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                    <h3 class="has-text-centered">
-                      Increase Audience/Customer Base
-                    </h3>
+                    <h3 class="has-text-centered">Increase Audience/Customer Base</h3>
                   </div>
                 </div>
                 <div class="content">
@@ -59,20 +54,21 @@
                 </div>
               </div>
             </div>
-		</div>
-		<div class="column">
+          </div>
+          <div class="column">
             <div class="card">
               <div class="card-image">
                 <figure class="image is-2by1">
-                  <img src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Placeholder image">
+                  <img
+                    src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                    alt="Placeholder image"
+                  />
                 </figure>
               </div>
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                    <h3 class="has-text-centered">
-                      Significant Financial Benefits
-                    </h3>
+                    <h3 class="has-text-centered">Significant Financial Benefits</h3>
                   </div>
                 </div>
                 <div class="content">
@@ -84,20 +80,21 @@
                 </div>
               </div>
             </div>
-		</div>
-		<div class="column">
+          </div>
+          <div class="column">
             <div class="card">
               <div class="card-image">
                 <figure class="image is-2by1">
-                  <img src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Placeholder image">
+                  <img
+                    src="https://images.pexels.com/photos/167635/pexels-photo-167635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                    alt="Placeholder image"
+                  />
                 </figure>
               </div>
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                    <h3 class="has-text-centered">
-                      Legally and Morally Right
-                    </h3>
+                    <h3 class="has-text-centered">Legally and Morally Right</h3>
                   </div>
                 </div>
                 <div class="content">
@@ -114,7 +111,7 @@
       </div>
     </div>
 
-    <div class="columns">
+    <!-- <div class="columns">
       <div class="column">
         <h3>Increase Audience/Customer Base</h3>
         <ul>
@@ -140,7 +137,7 @@
         </ul>
       </div>
     </div>
-    </div>
+    </div>-->
   </section>
 </template>
 <script>
@@ -282,33 +279,33 @@ export default {
 }
 
 .page-wrapper {
-	&.home-page {
-		.hero-body {
-			padding-top: 7rem;
-			padding-bottom: 5rem;
-		}
-	}
-	&:not(.home-page) {
-		.hero-body {
-			padding: 3em 0 2em;
-			.subtitle {
-				display: none;
-			}
-		}
-	}
+    &.home-page {
+        .hero-body {
+            padding-top: 7rem;
+            padding-bottom: 5rem;
+        }
+    }
+    &:not(.home-page) {
+        .hero-body {
+            padding: 3em 0 2em;
+            .subtitle {
+                display: none;
+            }
+        }
+    }
 }
 
 .reasons-container {
-	h2 {
-		background-color: #0a3055;
-		font-size: 2em;
-		color: #fff;
-	}
-	.container {
-		p {
-			padding: 1em;
-		}
-	}
+    h2 {
+        background-color: #0a3055;
+        font-size: 2em;
+        color: #fff;
+    }
+    .container {
+        p {
+            padding: 1em;
+        }
+    }
 }
 
 img#hero-logo {
