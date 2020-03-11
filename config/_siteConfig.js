@@ -80,7 +80,7 @@ export default {
 		},
 		custom: {
 			on: true,
-			formAction: ''
+			formAction: 'POST'
 		}
 	},
 
