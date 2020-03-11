@@ -79,7 +79,7 @@ export default {
 			formAction: 'https://frontrowgreg.us4.list-manage.com/subscribe/post?u=ad061aee26802d43f97043ab4&amp;id=0b2ac2232d'
 		},
 		custom: {
-			on: false,
+			on: true,
 			formAction: ''
 		}
 	},
