@@ -1,3 +1,4 @@
+/* eslint-disable no-mixed-spaces-and-tabs */
 /* eslint-disable */
 <template>
   <section :class="`hero is-medium hero-theme-${computedTheme}`">
@@ -15,9 +16,13 @@
           alt="Front Row Greg logo"
           src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true"
         />
-        <!-- <h1 class="title animated fadeInUp">{{ title }}</!-->
+        <h1 class="title animated fadeInUp">
+          {{ title }}
+        </h1>
 
-        <h2 class="subtitle animated fadeInUp slower">{{ subtitle }}</h2>
+        <h2 class="subtitle animated fadeInUp slower">
+          {{ subtitle }}
+        </h2>
         <br />
         <div v-if="$slots.default" class="under-subtitle animated fadeInDown slower">
           <slot />
@@ -32,20 +37,18 @@
         <div class="columns is-centered" style="padding: 2rem">
           <div class="column">
             <div class="card">
-              <div class="card-image">
+              <!-- <div class="card-image">
                 <figure class="image is-2by1">
                   <img
                     src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
                     alt="Placeholder image"
                   />
                 </figure>
-              </div>
+              </div> -->
               <div class="card-content">
-                <div class="media">
-                  <div class="media-content">
-                    <h3 class="has-text-centered">Increase Audience/Customer Base</h3>
-                  </div>
-                </div>
+                <h3 class="has-text-centered">
+                  Increase Audience/Customer Base
+                </h3>
                 <div class="content">
                   <ul>
                     <li>Neurological/Behavioral/Mental disorders</li>
@@ -58,20 +61,18 @@
           </div>
           <div class="column">
             <div class="card">
-              <div class="card-image">
+              <!-- <div class="card-image">
                 <figure class="image is-2by1">
                   <img
                     src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
                     alt="Placeholder image"
                   />
                 </figure>
-              </div>
+              </div> -->
               <div class="card-content">
-                <div class="media">
-                  <div class="media-content">
-                    <h3 class="has-text-centered">Significant Financial Benefits</h3>
-                  </div>
-                </div>
+                <h3 class="has-text-centered">
+                  Significant Financial Benefits
+                </h3>
                 <div class="content">
                   <ul>
                     <li>Neurological/Behavioral/Mental disorders</li>
@@ -84,20 +85,18 @@
           </div>
           <div class="column">
             <div class="card">
-              <div class="card-image">
+              <!-- <div class="card-image">
                 <figure class="image is-2by1">
                   <img
                     src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
                     alt="Placeholder image"
                   />
                 </figure>
-              </div>
+              </div> -->
               <div class="card-content">
-                <div class="media">
-                  <div class="media-content">
-                    <h3 class="has-text-centered">Legally and Morally Right</h3>
-                  </div>
-                </div>
+                <h3 class="has-text-centered">
+                  Legally and Morally Right
+                </h3>
                 <div class="content">
                   <ul>
                     <li>Neurological/Behavioral/Mental disorders</li>
@@ -206,8 +205,31 @@ export default {
     opacity: 0.12;
     animation: blurIn 4.5s ease;
 }
+
 </style>
 <style lang="scss">
+.site-layout-width-contained {
+    > div[id*='home'] {
+        h1.title {
+            // eslint-disable-next-line no-mixed-spaces-and-tabs
+            display: none !important;
+        }
+        #hero-logo {
+            display: block !important;
+			margin: 0 auto 2.5em;
+        }
+    }
+    > div:not([id*=home-]) {
+        h1.title {
+            // eslint-disable-next-line no-mixed-spaces-and-tabs
+            display: block !important;
+            /* margin: 0; */
+        }
+        #hero-logo {
+            display: none !important;
+        }
+    }
+}
 .hero {
     .hero-bg-img {
         position: absolute;
@@ -288,10 +310,10 @@ export default {
     }
     &:not(.home-page) {
         .hero-body {
-            padding: 3em 0 2em;
-            .subtitle {
+            padding: 2em 0;
+            /* .subtitle {
                 display: none;
-            }
+            } */
         }
     }
 }
@@ -306,6 +328,23 @@ export default {
         p {
             padding: 1em;
         }
+		.card {
+			.card-content {
+				padding: 0 0 1.5rem 0;
+				h3 {
+					background-color: #0a3055;
+					color: #fff;
+					padding: 0.5em 0;
+				}
+				.content {
+					ul {
+						li {
+							text-align: left;
+						}
+					}
+				}
+			}
+		}
     }
 }
 

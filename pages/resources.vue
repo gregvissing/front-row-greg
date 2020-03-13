@@ -6,7 +6,6 @@
       subtitle="Bookmarks for Days"
       image="/uploads/about-hero.jpg"
     ></site-hero>
-	<h1>Resources</h1>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">

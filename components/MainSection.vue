@@ -62,7 +62,8 @@ export default {
     }
 }
 
-p > a {
+p > a,
+.section.page-main-section p a {
     text-decoration: underline !important;
 }
 </style>
