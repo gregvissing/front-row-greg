@@ -4,7 +4,7 @@ subtitle: Learning the basics
 category:
   - Learning
 author: Greg Vissing
-date: 2020-01-29T13:58:11.131Z
+date: 2020-04-30T12:58:11.131Z
 featureImage: uploads/about-hero.jpg
 ---
 I'm using this post as way to track my progress through this course, but hopefully it can help someone else learn something new about Web Accessibility as well. 
