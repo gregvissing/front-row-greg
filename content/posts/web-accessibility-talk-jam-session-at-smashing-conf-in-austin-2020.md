@@ -142,6 +142,7 @@ Web Designers
   * Vision Impairment
   * Color vision impairment
   * Hearing Impaired
+* Tools
 
 Web Developers
 
