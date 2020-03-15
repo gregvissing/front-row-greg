@@ -129,3 +129,15 @@ I've recently learned that leading project meetings is a great way to get practi
 - - -
 
 March 14th, 2020
+
+After some thought, I think it would be best if I gear my talk towards both Web Designers and Web Developers. 
+
+Web Designers
+
+* Courses
+
+  * [Web Accessibility for Designers](https://www.udemy.com/course/web-accessibility-for-designers/)
+
+Web Developers
+
+* Semantic code
