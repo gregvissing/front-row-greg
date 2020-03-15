@@ -137,6 +137,11 @@ Web Designers
 * Courses
 
   * [Web Accessibility for Designers](https://www.udemy.com/course/web-accessibility-for-designers/)
+* Designing for:
+
+  * Vision Impairment
+  * Color vision impairment
+  * Hearing Impaired
 
 Web Developers
 
