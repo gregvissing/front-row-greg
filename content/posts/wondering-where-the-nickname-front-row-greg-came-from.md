@@ -4,7 +4,7 @@ subtitle: Ready my story along with the video where it all started.
 category:
   - About Front Row Greg
 author: Greg Vissing
-date: 2020-01-26T12:28:47.260Z
+date: 2020-04-30T11:28:47.260Z
 featureImage: uploads/inside-glacier-cave-2.jpg
 ---
 I'm sure by now you've wondered where such a nickname like "Front Row Greg" came from. Below is my story about how this nickname came about.
