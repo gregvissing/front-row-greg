@@ -19,4 +19,6 @@ Family Doctor - [Link](https://familydoctor.org/condition/coronavirus/) -
 
 Cleveland Clinic - [Link](https://newsroom.clevelandclinic.org/2020/03/15/frequently-asked-questions-about-coronavirus-disease-2019-covid-19/) - 
 
-World Health Organization - [Link](https://www.who.int/health-topics/coronavirus) -
+World Health Organization - [Link](https://www.who.int/health-topics/coronavirus) - 
+
+Sanford Health - [Link](https://www.sanfordhealth.org/conditions-diseases/coronavirus-disease-2019-covid-19) -
