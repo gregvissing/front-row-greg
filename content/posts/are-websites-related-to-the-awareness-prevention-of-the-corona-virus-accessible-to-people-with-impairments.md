@@ -15,4 +15,8 @@ With the current situation going on with the Coronavirus, I wanted to find out i
 
 Websites
 
-Family Doctor - [Link](https://familydoctor.org/condition/coronavirus/) -
+Family Doctor - [Link](https://familydoctor.org/condition/coronavirus/) - 
+
+Cleveland Clinic - [Link](https://newsroom.clevelandclinic.org/2020/03/15/frequently-asked-questions-about-coronavirus-disease-2019-covid-19/) - 
+
+World Health Organization - [Link](https://www.who.int/health-topics/coronavirus) -
