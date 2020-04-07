@@ -1,3 +1,4 @@
+/* eslint-disable vue/html-indent */
 /* eslint-disable no-mixed-spaces-and-tabs */
 /* eslint-disable */
 <template>
@@ -16,39 +17,50 @@
           alt="Front Row Greg logo"
           src="https://github.com/gregvissing/images-for-website/blob/master/front-row-greg-logo.png?raw=true"
         />
-        <h1 class="title animated fadeInUp">
-          {{ title }}
-        </h1>
+        <h1 class="title animated fadeInUp">{{ title }}</h1>
 
-        <h2 class="subtitle animated fadeInUp slower">
-          {{ subtitle }}
-        </h2>
-        <br />
-        <div v-if="$slots.default" class="under-subtitle animated fadeInDown slower">
-          <slot />
+        <h2 class="subtitle animated fadeInUp slower">{{ subtitle }}</h2>
+        <!-- <br /> -->
+        <div class="icon-container">
+          <font-awesome-icon icon="low-vision" />
+          <font-awesome-icon icon="deaf" />
+          <font-awesome-icon icon="brain" />
+          <font-awesome-icon icon="wheelchair" />
         </div>
+
+        <!-- 
+		// Subscribe button
+		<div v-if="$slots.default" class="under-subtitle animated fadeInDown slower">
+          <slot />
+        </div> 
+        -->
       </div>
     </div>
+
     <div class="reasons-container">
-      <h2>Reasons For Web Accessibility</h2>
+      <h2>What is Web Accessibility?</h2>
+      <div class="title container reasons-container">
+        <div class="columns">
+          <div class="column">
+            <h3
+              class="title is-3"
+            >Simple act of making sites and apps available to everyone, including those with disabilities.</h3>
+          </div>
+        </div>
+      </div>
+
+      <h2>Benefits Of Web Accessibility</h2>
       <div class="container">
-        <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+        <!-- <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
 
         <div class="columns is-centered" style="padding: 2rem">
           <div class="column">
             <div class="card">
-              <!-- <div class="card-image">
-                <figure class="image is-2by1">
-                  <img
-                    src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div> -->
+              <span class="icon">
+                <font-awesome-icon icon="users" />
+              </span>
               <div class="card-content">
-                <h3 class="has-text-centered">
-                  Increase Audience/Customer Base
-                </h3>
+                <h3 class="has-text-centered">Increase Audience/Customer Base</h3>
                 <div class="content">
                   <ul>
                     <li>Neurological/Behavioral/Mental disorders</li>
@@ -61,18 +73,11 @@
           </div>
           <div class="column">
             <div class="card">
-              <!-- <div class="card-image">
-                <figure class="image is-2by1">
-                  <img
-                    src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div> -->
+              <span class="icon">
+                <font-awesome-icon icon="dollar-sign" />
+              </span>
               <div class="card-content">
-                <h3 class="has-text-centered">
-                  Significant Financial Benefits
-                </h3>
+                <h3 class="has-text-centered">Significant Financial Benefits</h3>
                 <div class="content">
                   <ul>
                     <li>Neurological/Behavioral/Mental disorders</li>
@@ -85,23 +90,16 @@
           </div>
           <div class="column">
             <div class="card">
-              <!-- <div class="card-image">
-                <figure class="image is-2by1">
-                  <img
-                    src="https://via.placeholder.com/4000x2000.jpg?text=Image+Not+Found"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div> -->
+              <span class="icon">
+                <font-awesome-icon icon="balance-scale" />
+              </span>
               <div class="card-content">
-                <h3 class="has-text-centered">
-                  Legally and Morally Right
-                </h3>
+                <h3 class="has-text-centered">Legally and Morally Right</h3>
                 <div class="content">
                   <ul>
-                    <li>Neurological/Behavioral/Mental disorders</li>
-                    <li>Simple navigation and link titles</li>
-                    <li>Text-to-speech software</li>
+                    <li>Legal Requirement</li>
+                    <li>Web Access is Basic Human Rights</li>
+                    <li>Costly if Sued</li>
                   </ul>
                 </div>
               </div>
@@ -110,34 +108,6 @@
         </div>
       </div>
     </div>
-
-    <!-- <div class="columns">
-      <div class="column">
-        <h3>Increase Audience/Customer Base</h3>
-        <ul>
-          <li>Neurological/Behavioral/Mental disorders</li>
-          <li>Simple navigation and link titles</li>
-          <li>Text-to-speech software</li>
-        </ul>
-      </div>
-      <div class="column">
-        <h3>Significan Financial Benefits</h3>
-        <ul>
-          <li>Range from arthritis and carpal tunnel</li>
-          <li>Paralysis/Missing Limbs</li>
-          <li>Head pointer/Mouth stick</li>
-        </ul>
-      </div>
-      <div class="column">
-        <h3>Legally and Morally Right</h3>
-        <ul>
-          <li>Low Vision</li>
-          <li>Color blindness/Blindness</li>
-          <li>Rely on tools to navigate web</li>
-        </ul>
-      </div>
-    </div>
-    </div>-->
   </section>
 </template>
 <script>
@@ -179,9 +149,11 @@ export default {
 
 .title {
     font-weight: 300;
-    @media (min-width: 768px) {
+    width: 90%;
+    margin: 0.75em auto;
+    /* @media (min-width: 768px) {
         font-size: 3.2rem;
-    }
+    } */
 }
 .subtitle,
 .under-subtitle {
@@ -189,7 +161,7 @@ export default {
     margin: 0;
 }
 .subtitle {
-    font-size: 1rem;
+    font-size: 1.5em;
     margin-bottom: 0 !important;
 }
 .under-subtitle {
@@ -205,7 +177,6 @@ export default {
     opacity: 0.12;
     animation: blurIn 4.5s ease;
 }
-
 </style>
 <style lang="scss">
 .site-layout-width-contained {
@@ -216,10 +187,10 @@ export default {
         }
         #hero-logo {
             display: block !important;
-			margin: 0 auto 2.5em;
+            margin: 0 auto 2.5em;
         }
     }
-    > div:not([id*=home-]) {
+    > div:not([id*='home-']) {
         h1.title {
             // eslint-disable-next-line no-mixed-spaces-and-tabs
             display: block !important;
@@ -304,8 +275,20 @@ export default {
 .page-wrapper {
     &.home-page {
         .hero-body {
-            padding-top: 7rem;
+            padding-top: 5rem;
             padding-bottom: 5rem;
+            .container {
+                .icon-container {
+                    margin-top: 1em;
+                    svg {
+                        color: #396999;
+                        height: 2.5em;
+                        width: 2.5em;
+                        margin: 0 2em;
+                        vertical-align: bottom;
+                    }
+                }
+            }
         }
     }
     &:not(.home-page) {
@@ -313,7 +296,16 @@ export default {
             padding: 2em 0;
             /* .subtitle {
                 display: none;
-            } */
+			} */
+            > .container {
+                svg,
+                h2.subtitle {
+                    display: none;
+                }
+            }
+        }
+        .title.container {
+            display: none;
         }
     }
 }
@@ -323,28 +315,37 @@ export default {
         background-color: #0a3055;
         font-size: 2em;
         color: #fff;
+        padding: 0.25em 0;
     }
     .container {
         p {
             padding: 1em;
         }
-		.card {
-			.card-content {
-				padding: 0 0 1.5rem 0;
-				h3 {
-					background-color: #0a3055;
-					color: #fff;
-					padding: 0.5em 0;
-				}
-				.content {
-					ul {
-						li {
-							text-align: left;
-						}
-					}
-				}
-			}
-		}
+        .card {
+            .icon {
+                height: 1.5em;
+                font-size: 4em;
+                color: #396999;
+                svg {
+                    height: 50%;
+                }
+            }
+            .card-content {
+                padding: 0 0 1.5rem 0;
+                h3 {
+                    background-color: #0a3055;
+                    color: #fff;
+                    padding: 0.5em 0;
+                }
+                .content {
+                    ul {
+                        li {
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 

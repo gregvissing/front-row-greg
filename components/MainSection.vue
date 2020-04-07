@@ -1,5 +1,6 @@
 <template>
   <main class="section page-main-section">
+    <h2>Blog</h2>
     <div class="container">
       <div class="columns">
         <aside v-if="computedTheme === 'sidebar-left'" class="column left-sidebar is-one-quarter">
