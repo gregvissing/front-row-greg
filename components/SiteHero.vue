@@ -22,10 +22,16 @@
         <h2 class="subtitle animated fadeInUp slower">{{ subtitle }}</h2>
         <!-- <br /> -->
         <div class="icon-container">
-          <font-awesome-icon icon="low-vision" />
+          <p>HTML5</p>
+          <p>CSS3</p>
+          <p>JS</p>
+          <p>A11Y</p>
+          <p>Animation</p>
+          <p>UI Design</p>
+          <!-- <font-awesome-icon icon="low-vision" />
           <font-awesome-icon icon="deaf" />
           <font-awesome-icon icon="brain" />
-          <font-awesome-icon icon="wheelchair" />
+          <font-awesome-icon icon="wheelchair" /> -->
         </div>
 
         <!-- 
@@ -37,7 +43,7 @@
       </div>
     </div>
 
-    <div class="reasons-container">
+    <!-- <div class="reasons-container">
       <h2>What is Web Accessibility?</h2>
       <div class="title container reasons-container">
         <div class="columns">
@@ -51,7 +57,6 @@
 
       <h2>Benefits Of Web Accessibility</h2>
       <div class="container">
-        <!-- <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
 
         <div class="columns is-centered" style="padding: 2rem">
           <div class="column">
@@ -107,7 +112,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
 </template>
 <script>
@@ -287,6 +292,16 @@ export default {
                         margin: 0 2em;
                         vertical-align: bottom;
                     }
+					p {
+						display: inline;
+						margin: 5px 0;
+						position: relative;
+						&:not(:last-child):after {
+							content: "|";
+							margin: 5px 10px;
+							position: relative;
+						}
+					}
                 }
             }
         }

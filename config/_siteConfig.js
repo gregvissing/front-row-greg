@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
 	siteName: 'Front Row Greg',
-	tagline: 'Forefront to a More Accessible Web',
+	tagline: 'A Front Row Seat to my Web Development Journey',
 	featureImage: '/uploads/home-hero.jpg',
 	logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
 	googleAnalytics: {
