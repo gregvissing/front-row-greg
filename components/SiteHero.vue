@@ -44,7 +44,7 @@
           <div class="column">
             <h3
               class="title is-3"
-            >Simple act of making sites and apps available to everyone, including those with disabilities.</h3>
+            >It is the simple act of making sites and apps available to everyone, including those with disabilities.</h3>
           </div>
         </div>
       </div>
